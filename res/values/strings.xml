@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AutoRide</string>
+    <string name="heading">The Auto Ride App</string>
+    <string name="action_settings">Settings</string>
+    <string name="startRide">Start Ride</string>
+    <string name="go">GO</string>
+
+</resources>
